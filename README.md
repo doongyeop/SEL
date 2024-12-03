@@ -2,10 +2,9 @@
 <div align = center>
 
 ### SHINHAN HACKATHON WITH SSAFY
-
+**🎉신한은행 해커톤 For SSAFY 본선 결선(TOP7)🎉**  
 </div>
 
-**신한은행 해커톤 For SSAFY 본선 결선(TOP7)**  
 팀명 : F1ve Guys  
 기간 : 2024.08.14(금) ~ 2024.09.01(일)  
 주제 : 언제 어디서나 고객의 일상에 스며드는 **Everywhere Bank**
